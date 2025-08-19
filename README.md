@@ -5,9 +5,12 @@ If the speed crosses a certain limit a webcam will capture the vehicle number pl
 For traffic rules, when the light is red, spikes on the road will appear using servo motor. In contrast, the green light will let vehicles go making the road obstacle free
 
 
-## PROJECT DEMO
+## DEMO
 
 [![Watch the video](https://raw.githubusercontent.com/Parisa-Reza/Smart-Road-Safety/master/thumbnail.jpg)](https://raw.githubusercontent.com/Parisa-Reza/Smart-Road-Safety/master/video1.mp4)
 
+
+
+![thumbnail1](https://github.com/user-attachments/assets/dab23b59-46f2-41c1-bb4c-fcd87ad3d166)
 
 
