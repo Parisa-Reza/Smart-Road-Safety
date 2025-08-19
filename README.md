@@ -7,6 +7,7 @@ For traffic rules, when the light is red, spikes on the road will appear using s
 
 ## PROJECT DEMO
 
+[![Watch the video](https://raw.githubusercontent.com/Parisa-Reza/Smart-Road-Safety/master/assets/thumbnail.jpg)](https://raw.githubusercontent.com/Parisa-Reza/Smart-Road-Safety/master/assets/video.mp4)
 
 
 
